@@ -1,0 +1,24 @@
+.converter{
+    background-color: rgb(226, 249, 136);
+   box-shadow: 0 1rem 2rem rgba(0, 0, 0,0.4);
+   width:600px;
+   height: 50vh;
+   margin:20vh auto;
+   display:flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   align-items: center;
+   border: 2px solid yellowgreen;
+
+}
+
+.child{
+    margin:10px;
+    font-size: 2 rem;
+    font-family: cursive;
+    
+}
+input{
+    font-size: larger;
+    background-color:lightcyan
+}
